@@ -1,0 +1,19 @@
+body{
+   /* background-image:url("https://i.pinimg.com/550x/06/a9/cc/06a9ccc351943f255d16563ea3258a35.jpg");*/
+    background-image: url("https://i.pinimg.com/736x/30/1e/b5/301eb5ab3d75593d3fa39739cedda962.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    margin-top: 50px !important;
+    background-color: rgb(40, 218, 108);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight:bolder !important;
+}
+img{
+    height:300px !important;
+    border-radius: 10px;
+    width: 100%;
+    
+}
